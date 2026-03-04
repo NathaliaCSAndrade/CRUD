@@ -1,0 +1,6 @@
+0002,Whisky,Ballantines 750ml,63.56,89.99,5
+0001,Doce,Pirulito Maça Verde,0.97,1.99,25
+0003,Cerveja,Amstel Lata 350ml,2.97,3.89,54
+0004,Refrigerante,H2O 2L,7.0,10.0,14
+0009,Refrigerante,Fanta Uva 2L,9.99,15.98,9
+0017,Vodka,Smirnoff 900ml,39.9,54.89,13
